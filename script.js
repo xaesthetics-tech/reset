@@ -97,8 +97,9 @@ const SERVICE_DATA = [
       "Price on request",
 
     image:
-      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=900&q=85",
-
+      image:
+  "https://res.cloudinary.com/rwe6y1iw/image/upload/f_auto,q_auto/a670e1e7149e2b29f7f882908790d205",
+   
     subcategories: [
 
       {
@@ -167,7 +168,8 @@ const SERVICE_DATA = [
       "Price on request",
 
     image:
-      "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=900&q=85",
+      image:
+  "https://res.cloudinary.com/rwe6y1iw/image/upload/f_auto,q_auto/43ba94fbb68d7f328d9d5f90efcc1309",
 
     subcategories: [
 
@@ -237,7 +239,8 @@ const SERVICE_DATA = [
       "Price on request",
 
     image:
-      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=85",
+      image:
+  "https://res.cloudinary.com/rwe6y1iw/image/upload/f_auto,q_auto/67d211731e1ea9d42db856cc60b079d1",
 
     subcategories: [
 
@@ -307,7 +310,8 @@ const SERVICE_DATA = [
       "Price on request",
 
     image:
-      "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&q=85",
+      image:
+  "https://res.cloudinary.com/rwe6y1iw/image/upload/f_auto,q_auto/afd9f91ae6d6bde5258142c87e1ec2df",
 
     subcategories: [
 
@@ -377,7 +381,8 @@ const SERVICE_DATA = [
       "Price on request",
 
     image:
-      "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=900&q=85",
+      image:
+  "https://res.cloudinary.com/rwe6y1iw/image/upload/f_auto,q_auto/file_0000000074fc81faab9ccd41e2900710",
 
     subcategories: [
 
